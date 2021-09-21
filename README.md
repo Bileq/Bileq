@@ -8,10 +8,12 @@
 <h3>:wrench: Technologies and Tools</h3>
   
   
-![](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Styles-CSS-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Editor-Vscode-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=appveyor)
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) <br>
+
