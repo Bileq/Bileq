@@ -6,11 +6,12 @@
 <h4>💼 I am actively looking for a job</h4>
   
 <h3>:wrench: Technologies and Tools</h3>
+  
+  
 ![](https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Styles-CSS-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-Vscode-blue?style=for-the-badge&logo=appveyor)
-  ![](https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=appveyor)
-  <a href="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=appveyor"></a>
+![](https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=appveyor)
