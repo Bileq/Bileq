@@ -1,4 +1,5 @@
-<h3>Welcome to my profile! 👋<br>I'm Dominik Bil<br>I want to become a Frontend Developer<br>My recent projects was created using <b>React<b/></h3>
+<h3>Welcome to my profile!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>I'm Dominik Bil<br>I want to become a Frontend Developer<br>My recent projects was created using <b>React<b/></h3>
 
 <h4>📕 My recent project ![Book Finder](https://react-books-finder-by-bileq.herokuapp.com)</h4>
   
@@ -11,5 +12,5 @@
 ![](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Styles-CSS-blue?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-Vscode-blue?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=appveyor)
-![](https://facebook.com)
+  ![](https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=appveyor)
+  <a href="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=appveyor"></a>
