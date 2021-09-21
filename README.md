@@ -1,7 +1,7 @@
 <h3>Welcome to my profile!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>I'm Dominik Bil<br>I want to become a Frontend Developer<br>My recent projects was created using <b>React<b/></h3>
 
-<h4>📕 My recent project ![Book Finder](https://react-books-finder-by-bileq.herokuapp.com)</h4>
+  <h4>📕 My recent project <a href="https://react-books-finder-by-bileq.herokuapp.com">Book Finder</a></h4>
   
 <h4>💼 I am actively looking for a job</h4>
   
